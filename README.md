@@ -1,6 +1,8 @@
 # Skava-A-Virtual-Assistant-Using-C++
  FIRST INSTALL <a href="https://espeak.sourceforge.net/" target="_blank">ESPEAK</a> IN YOUR LOCAL MACHINE
  
+ ![Screenshot (13)](https://user-images.githubusercontent.com/96071288/198581928-0af4b659-374d-41b4-83e8-1b57621e7842.png)
+
  
 IF YOU RUN THE MAIN.CPP FILE ON CMD OR IF YOU OPEN MAIN.EXE FILE YOU WILL SEE THIS INTERFACE
  
